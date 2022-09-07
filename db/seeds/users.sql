@@ -1,1 +1,1 @@
--- INSERT INTO users (username, password) VALUES ('my_username', 'my_password')
+INSERT INTO users (username, password) VALUES ('my_username', 'my_password')
